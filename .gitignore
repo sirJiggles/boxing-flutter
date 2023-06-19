@@ -1,0 +1,22 @@
+# Flutter/Dart specific
+**/build/
+**/ios/Pods/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Android specific
+**/android/build/
+**/android/gradle/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/app/google-services.json
+**/android/app/debug.keystore
+**/android/app/release.keystore
+
+# Visual Studio Code specific
+.vscode/
